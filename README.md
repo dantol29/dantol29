@@ -11,7 +11,7 @@
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/dantol29@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="dantol29@gmail.com">   <a  href="https://www.instagram.com/dantol29/"><img src="https://img.shields.io/badge/@dantol29-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sharannyobasu/"><img src="https://img.shields.io/badge/Daniils Tolmacovs-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/dantol29@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="dantol29@gmail.com">   <a  href="https://www.instagram.com/dantol29/"><img src="https://img.shields.io/badge/@dantol29-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sharannyobasu/"> <img src = "https://img.shields.io/badge/unix-%2300599C.svg?&style=for-the-badge&logo=unix%2B%2B&logoColor=white">
 
 <hr>
 

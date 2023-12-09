@@ -9,12 +9,14 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+
+<img src="https://img.shields.io/badge/dantol29@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="dantol29@gmail.com">   <a  href="https://www.instagram.com/dantol29/"><img src="https://img.shields.io/badge/@dantol29-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sharannyobasu/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+<hr>
 
 
 - 🌱 I’m currently learning C and C++ at 42 Berlin
-
-- 📫 How to reach me **dantol29@gmail.com**
 
 <br>
 

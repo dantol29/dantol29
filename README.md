@@ -1,4 +1,4 @@
-
+![](https://github.com/dantol29/born2beroot/blob/main/joy.gif)
 ### How to reach me:
 
 <img src="https://img.shields.io/badge/dantol29@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="dantol29@gmail.com">   <a  href="https://www.instagram.com/dantol29/"><img src="https://img.shields.io/badge/@dantol29-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sharannyobasu/"> 

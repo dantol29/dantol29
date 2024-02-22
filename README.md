@@ -1,19 +1,7 @@
-<h1 align="center">Hi 👋, I'm Daniil Tolmacov</h1>
-<h3 align="center">Student at 42 Berlin🌟.</h3>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dantol29&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-
-### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+### How to reach me:
 
 <img src="https://img.shields.io/badge/dantol29@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="dantol29@gmail.com">   <a  href="https://www.instagram.com/dantol29/"><img src="https://img.shields.io/badge/@dantol29-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sharannyobasu/"> 
-
-<hr>
-
-- 🌱 I’m currently learning C, C++ and Unix at 42 Berlin
-- 🛠 Experience in Full-Stack development with Django
 
 
 ### Tools I work upon : 🛠

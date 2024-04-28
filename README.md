@@ -2,14 +2,17 @@
 
 ## My projects 💼: 
 ### C/C++
-* [Minishell](https://github.com/dantol29/minishell) Recreation of Bash in C.
- 
+* [Webserver](https://github.com/dantol29/webserver) HTTP server
+
 * [Cub3D](https://github.com/42Alena/CUB3D) 3D game with raycasting
- 
+
+* [Minishell](https://github.com/dantol29/minishell) Recreation of Bash in C.
+  
 * [Push Swap](https://github.com/dantol29/push_swap) Sorting algorithm using limited operations
  
-* [So Long](https://github.com/dantol29/so_long) Retro 2D game
 <hr>
+
+🌱 I’m currently learning Docker, C++ and Typescript
 
 ### Tools I work upon 🛠: 
 

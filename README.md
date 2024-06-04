@@ -2,21 +2,22 @@
 
 ## My projects 💼: 
 ### C/C++
-* [Webserver](https://github.com/dantol29/webserver) HTTP server
+* [Webserver](https://github.com/dantol29/webserver) HTTP server in C++98
 
-* [Cub3D](https://github.com/42Alena/CUB3D) 3D game with raycasting
+* [Cub3D](https://github.com/42Alena/CUB3D) 3D game with raycasting in C
 
 * [Minishell](https://github.com/dantol29/minishell) Recreation of Bash in C.
   
-* [Push Swap](https://github.com/dantol29/push_swap) Sorting algorithm using limited operations
+* [Push Swap](https://github.com/dantol29/push_swap) Sorting algorithm using limited operations in C
  
 <hr>
 
-🌱 I’m currently learning Docker, C++ and Typescript
+🌱 I’m currently learning PL/SQL and C++17
 
 ### Tools I work upon 🛠: 
 
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src = "https://img.shields.io/badge/unix-%2300599C.svg?&style=for-the-badge&logo=unix%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PL/SQL](https://img.shields.io/badge/plsql-%235C1F87.svg?style=for-the-badge&logo=plsql)
 <hr>
 
 <h3>Statistical Data :</h3>

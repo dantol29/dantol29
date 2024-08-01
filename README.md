@@ -12,7 +12,7 @@
  
 <hr>
 
-🌱 I’m currently learning PL/SQL and C++17
+🌱 I’m currently learning Rust, ICP developement, Pytest framework and modern C++
 
 ### Tools I work upon 🛠: 
 

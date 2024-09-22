@@ -1,8 +1,12 @@
 ![](https://github.com/dantol29/born2beroot/blob/main/joy.gif)
 
 ## My projects 💼: 
+### RUST
+* Can't show my Rust projects, signed an NDA😉
+* ICP Ledger scanner(Plug Wallet) - real time transactions tracking and history fetching
+* ETH, ERC20 and BTC implementation for cross-chain transactions on ICP(Plug Wallet)
 ### C/C++
-* [Webserver](https://github.com/dantol29/webserver) HTTP server in C++98
+* [Webserver](https://github.com/dantol29/webserver) HTTP server(NGINX recreation) in C++98
 
 * [Cub3D](https://github.com/42Alena/CUB3D) 3D game with raycasting in C
 

@@ -1,19 +1,20 @@
 ![](https://github.com/dantol29/born2beroot/blob/main/joy.gif)
 
 ## My projects 💼: 
-### RUST
-* Can't show my Rust projects, signed an NDA😉
-* ICP Ledger scanner(Plug Wallet) - real time transactions tracking and history fetching
-* ETH, ERC20 and BTC implementation for cross-chain transactions on ICP(Plug Wallet)
 ### C/C++
-* [Webserver](https://github.com/dantol29/webserver) HTTP server(NGINX recreation) in C++98
+* [Webserver](https://github.com/dantol29/webserver) NGINX recreation in C++98
+
+* [lem-ipc](https://github.com/dantol29/lem-ipc) IPC System V Multiplayer Game
+
+* [malloc](https://github.com/dantol29/my_malloc) Custom dynamic memory manager
 
 * [Cub3D](https://github.com/42Alena/CUB3D) 3D game with raycasting in C
 
 * [Minishell](https://github.com/dantol29/minishell) Recreation of Bash in C.
   
-* [Push Swap](https://github.com/dantol29/push_swap) Sorting algorithm using limited operations in C
- 
+### RUST
+* ICP Ledger scanner(Plug Wallet) - real time transactions tracking and history fetching
+* ETH, ERC20 and BTC implementation for cross-chain transactions on ICP(Plug Wallet)
 <hr>
 
 🌱 I’m currently learning Rust, ICP developement, Pytest framework and modern C++
